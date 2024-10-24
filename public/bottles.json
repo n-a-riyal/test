@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "name": "Spring Water",
+        "volume": "500ml",
+        "type": "Water",
+        "price": 1.50,
+        "image": "https://images.unsplash.com/photo-1589920741934-0b2d7a5a3aa0",
+        "description": "Pure and refreshing spring water sourced from natural springs. Rich in minerals, it hydrates your body while providing a crisp, clean taste that's perfect for any occasion."
+    },
+    {
+        "id": 2,
+        "name": "Sparkling Water",
+        "volume": "750ml",
+        "type": "Water",
+        "price": 2.00,
+        "image": "https://images.unsplash.com/photo-1589920742330-0c6217d0bca5",
+        "description": "Bubbly sparkling water with a crisp, clean taste. Perfect for those who enjoy a refreshing drink with a little fizz, making it an ideal mixer for cocktails or a delightful standalone beverage."
+    },
+    {
+        "id": 3,
+        "name": "Coca-Cola",
+        "volume": "330ml",
+        "type": "Soda",
+        "price": 1.00,
+        "image": "https://images.unsplash.com/photo-1544041062-13355f8e6a12",
+        "description": "Classic cola beverage, refreshing and full of flavor. With its unique blend of sweetness and carbonation, Coca-Cola is perfect for quenching your thirst or enjoying with a meal."
+    },
+    {
+        "id": 4,
+        "name": "Pepsi",
+        "volume": "500ml",
+        "type": "Soda",
+        "price": 1.20,
+        "image": "https://images.unsplash.com/photo-1571465883840-31f16309c100",
+        "description": "Deliciously bold Pepsi with a unique taste that stands out. Ideal for pairing with snacks, meals, or enjoying on its own for a burst of refreshing flavor."
+    },
+    {
+        "id": 5,
+        "name": "Orange Juice",
+        "volume": "1L",
+        "type": "Juice",
+        "price": 3.50,
+        "image": "https://images.unsplash.com/photo-1596331311108-9f9ffb0981e3",
+        "description": "Freshly squeezed orange juice packed with vitamins. Bursting with flavor, it's the perfect way to start your day or enjoy a midday boost of natural energy."
+    },
+    {
+        "id": 6,
+        "name": "Apple Juice",
+        "volume": "1L",
+        "type": "Juice",
+        "price": 3.00,
+        "image": "https://images.unsplash.com/photo-1589920741616-79f1bbcb79a5",
+        "description": "Natural apple juice made from ripe apples. Sweet and refreshing, this juice is great for breakfast, as a snack, or as a healthy addition to any meal."
+    },
+    {
+        "id": 7,
+        "name": "Lemonade",
+        "volume": "500ml",
+        "type": "Juice",
+        "price": 2.50,
+        "image": "https://images.unsplash.com/photo-1596331410393-1cf2c3cc25bc",
+        "description": "Refreshing lemonade made with real lemons and just the right amount of sweetness. A classic summer drink that's perfect for picnics, barbecues, or simply enjoying on a hot day."
+    },
+    {
+        "id": 8,
+        "name": "Iced Tea",
+        "volume": "500ml",
+        "type": "Tea",
+        "price": 2.00,
+        "image": "https://images.unsplash.com/photo-1604790195721-1f1e76e1f8be",
+        "description": "Chilled iced tea with a hint of lemon. A revitalizing drink that combines the smoothness of tea with a refreshing coolness, making it a perfect thirst quencher."
+    },
+    {
+        "id": 9,
+        "name": "Red Wine",
+        "volume": "750ml",
+        "type": "Wine",
+        "price": 12.00,
+        "image": "https://images.unsplash.com/photo-1573846537990-10001936e1f0",
+        "description": "Rich and bold red wine with fruity notes and a velvety finish. Ideal for pairing with red meats, hearty pasta dishes, or enjoying on its own for a sophisticated experience."
+    },
+    {
+        "id": 10,
+        "name": "White Wine",
+        "volume": "750ml",
+        "type": "Wine",
+        "price": 14.00,
+        "image": "https://images.unsplash.com/photo-1596330364012-48d8bb98c721",
+        "description": "Crisp and refreshing white wine with floral aromas and a smooth finish. Perfect for pairing with seafood, light salads, or as an aperitif for special occasions."
+    },
+    {
+        "id": 11,
+        "name": "Craft Beer",
+        "volume": "355ml",
+        "type": "Beer",
+        "price": 3.50,
+        "image": "https://images.unsplash.com/photo-1519268021393-43c85e8eb73f",
+        "description": "Artisanal craft beer with a complex flavor profile. Brewed in small batches, it's perfect for beer enthusiasts looking for unique tastes and character in every sip."
+    },
+    {
+        "id": 12,
+        "name": "Lager",
+        "volume": "500ml",
+        "type": "Beer",
+        "price": 4.00,
+        "image": "https://images.unsplash.com/photo-1523370521745-8d64e2e31d8b",
+        "description": "Smooth and refreshing lager, with a balanced taste that appeals to everyone. Ideal for social gatherings, BBQs, or simply enjoying a relaxing evening."
+    },
+    {
+        "id": 13,
+        "name": "Ginger Ale",
+        "volume": "330ml",
+        "type": "Soda",
+        "price": 1.50,
+        "image": "https://images.unsplash.com/photo-1556721378-cbe37d53e1b0",
+        "description": "Spicy and refreshing ginger ale, a classic mixer. Enjoy it on its own or pair it with your favorite spirits for a zesty cocktail."
+    },
+    {
+        "id": 14,
+        "name": "Tonic Water",
+        "volume": "200ml",
+        "type": "Mixer",
+        "price": 1.80,
+        "image": "https://images.unsplash.com/photo-1570621206405-efac4cf5cb80",
+        "description": "Crisp tonic water, perfect for cocktails or as a refreshing standalone drink. Its subtle bitterness pairs well with gin and other spirits."
+    },
+    {
+        "id": 15,
+        "name": "Sports Drink",
+        "volume": "500ml",
+        "type": "Sports",
+        "price": 2.50,
+        "image": "https://images.unsplash.com/photo-1589920742236-bd3f67da9f80",
+        "description": "Electrolyte-rich sports drink designed to hydrate and replenish. Perfect for athletes and active individuals looking to stay energized and refreshed during workouts."
+    },
+    {
+        "id": 16,
+        "name": "Coconut Water",
+        "volume": "330ml",
+        "type": "Water",
+        "price": 3.00,
+        "image": "https://images.unsplash.com/photo-1589920742266-5a09a9a0cc0b",
+        "description": "Natural coconut water, a refreshing tropical drink that hydrates and replenishes electrolytes. Perfect for post-workout recovery or a quick refreshment."
+    },
+    {
+        "id": 17,
+        "name": "Root Beer",
+        "volume": "355ml",
+        "type": "Soda",
+        "price": 1.80,
+        "image": "https://images.unsplash.com/photo-1572169114915-4e37f2b3f230",
+        "description": "Sweet and creamy root beer, a nostalgic favorite that brings back memories of childhood. Enjoy it on its own or as a float with ice cream."
+    },
+    {
+        "id": 18,
+        "name": "Energy Drink",
+        "volume": "250ml",
+        "type": "Energy",
+        "price": 2.00,
+        "image": "https://images.unsplash.com/photo-1616617488538-b0cf724cbb88",
+        "description": "High-energy drink formulated to keep you going all day. Packed with caffeine and vitamins, it's perfect for those needing an extra boost."
+    },
+    {
+        "id": 19,
+        "name": "Smoothie",
+        "volume": "500ml",
+        "type": "Juice",
+        "price": 4.50,
+        "image": "https://images.unsplash.com/photo-1596331182682-fc2f8a9249da",
+        "description": "Delicious smoothie made with real fruit and a blend of nutrients. A healthy and tasty option"
+
+    }
+]
